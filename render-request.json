@@ -1,0 +1,9 @@
+{
+  "name": "meme-marble",
+  "buildCommand": "true",
+  "publishPath": ".",
+  "repo": "https://github.com/myclaudeprojects/meme-marble",
+  "branch": "main",
+  "autoDeploy": "yes",
+  "workspaceId": "tea-d95bkuuq1p3s73cshmn0"
+}

@@ -1,0 +1,45 @@
+{
+  "ticker": "MARBLE",
+  "ticker_lower": "marble",
+  "name": "Marble",
+  "character": {
+    "name": "Marble",
+    "one_liner": "Jumpy, sweet, hides snacks everywhere.",
+    "visual": "Chubby fluffy white bunny with tall upright ears with pink insides, big sparkling blue eyes with little lashes, a tiny pink nose, round cheeks, and a happy open-mouthed smile, sitting on soft grey"
+  },
+  "tagline": "Hop first, ask questions later. Snacks hidden nearby.",
+  "blurb": "Marble jumps at every little sound and then gives you a carrot she hid in your shoe last week. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/marble.webp",
+  "palette": {
+    "primary": "#9b8cff",
+    "secondary": "#9dffb0",
+    "accent": "#d4b5ff",
+    "bg": "#f5fff9"
+  },
+  "design": {
+    "seed": "70aaca93688a38b1",
+    "palette_family": "mint_lilac",
+    "palette_source": "generated",
+    "layout": "offset_card",
+    "layout_source": "generated",
+    "layout_label": "Card-in-card with offset floating mascot",
+    "font_pair": "comfortaa_sniglet",
+    "font_source": "generated",
+    "font_display": "Comfortaa",
+    "font_body": "Sniglet",
+    "font_google": "family=Comfortaa:wght@400;500;600;700&family=Sniglet:wght@400;800"
+  },
+  "request_id": "marble-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Marble is a snow-white puff of a bunny with tall pink ears and big blue eyes that go even bigger whenever a leaf rustles. A sneeze, a door, a butterfly \u2014 boing, she's three feet in the air.\n\nOnce she lands, though, she is the sweetest bunny you will ever meet. She'll hop right over, wiggle her pink nose, and share whatever snack she has \u2014 because Marble always has a snack.\n\nNobody knows exactly how many she has hidden. There are carrots under cushions, berries in boots, and at least one cracker in every coat pocket in the house. Marble remembers them all, mostly.\n\nJumpy, generous, and stuffed with love (and lettuce) \u2014 that's Marble. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
